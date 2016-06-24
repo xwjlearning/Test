@@ -1,5 +1,5 @@
-This is a new file.
 ONE
 TWO
 THREE
-
+I'm the added line.
+I'm alse the added line.
