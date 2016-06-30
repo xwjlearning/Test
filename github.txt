@@ -5,8 +5,5 @@ I'm the added line.
 I'm alse the added line.
 我是在本地添加的！
 我也是在本地添加的！
-<<<<<<< HEAD
-我又添加了一行。
-=======
 在本地newB中添加的！
->>>>>>> 95993642c6f0296f6907c55e97ee07e188dea848
+我又添加了一行。
